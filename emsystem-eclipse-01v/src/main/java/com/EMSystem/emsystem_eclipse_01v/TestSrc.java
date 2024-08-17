@@ -11,6 +11,6 @@ public class TestSrc {
 		System.out.println("HELLO WORLD");
 		int a=2,b=4;
 		int c=sum(a,b);
-		System.out.println(c);
+		System.out.println("test"+c);
 	}
 }
